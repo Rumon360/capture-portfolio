@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.js": "/Rumon360/capture-portfolio/static/js/main.a132e5b2.chunk.js",
+    "main.js.map": "/Rumon360/capture-portfolio/static/js/main.a132e5b2.chunk.js.map",
+    "runtime-main.js": "/Rumon360/capture-portfolio/static/js/runtime-main.a998b4c6.js",
+    "runtime-main.js.map": "/Rumon360/capture-portfolio/static/js/runtime-main.a998b4c6.js.map",
+    "static/js/2.b3d373ce.chunk.js": "/Rumon360/capture-portfolio/static/js/2.b3d373ce.chunk.js",
+    "static/js/2.b3d373ce.chunk.js.map": "/Rumon360/capture-portfolio/static/js/2.b3d373ce.chunk.js.map",
+    "static/js/3.39ef7622.chunk.js": "/Rumon360/capture-portfolio/static/js/3.39ef7622.chunk.js",
+    "static/js/3.39ef7622.chunk.js.map": "/Rumon360/capture-portfolio/static/js/3.39ef7622.chunk.js.map",
+    "index.html": "/Rumon360/capture-portfolio/index.html",
+    "static/js/2.b3d373ce.chunk.js.LICENSE.txt": "/Rumon360/capture-portfolio/static/js/2.b3d373ce.chunk.js.LICENSE.txt",
+    "static/media/athlete-small.9c7a85d4.png": "/Rumon360/capture-portfolio/static/media/athlete-small.9c7a85d4.png",
+    "static/media/athlete2.b216a5ad.png": "/Rumon360/capture-portfolio/static/media/athlete2.b216a5ad.png",
+    "static/media/clock.4b7cde7e.svg": "/Rumon360/capture-portfolio/static/media/clock.4b7cde7e.svg",
+    "static/media/diaphragm.db801491.svg": "/Rumon360/capture-portfolio/static/media/diaphragm.db801491.svg",
+    "static/media/good-times2.4ea1be17.jpg": "/Rumon360/capture-portfolio/static/media/good-times2.4ea1be17.jpg",
+    "static/media/goodtimes-small.94ab060d.png": "/Rumon360/capture-portfolio/static/media/goodtimes-small.94ab060d.png",
+    "static/media/home1.9836de69.png": "/Rumon360/capture-portfolio/static/media/home1.9836de69.png",
+    "static/media/home2.a65a4256.png": "/Rumon360/capture-portfolio/static/media/home2.a65a4256.png",
+    "static/media/money.72da7c48.svg": "/Rumon360/capture-portfolio/static/media/money.72da7c48.svg",
+    "static/media/teamwork.aa71db2e.svg": "/Rumon360/capture-portfolio/static/media/teamwork.aa71db2e.svg",
+    "static/media/the-racer2.580f15cd.jpg": "/Rumon360/capture-portfolio/static/media/the-racer2.580f15cd.jpg",
+    "static/media/theracer-small.51874213.png": "/Rumon360/capture-portfolio/static/media/theracer-small.51874213.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a998b4c6.js",
+    "static/js/2.b3d373ce.chunk.js",
+    "static/js/main.a132e5b2.chunk.js"
+  ]
+}
